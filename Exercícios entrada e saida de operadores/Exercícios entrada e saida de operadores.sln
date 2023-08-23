@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercícios entrada e saida de operadores", "Exercícios entrada e saida de operadores.csproj", "{11777152-3614-41BA-BFAA-6868F57417AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11777152-3614-41BA-BFAA-6868F57417AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11777152-3614-41BA-BFAA-6868F57417AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11777152-3614-41BA-BFAA-6868F57417AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11777152-3614-41BA-BFAA-6868F57417AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14699437-7EB8-494C-9A3A-55B9D1D7E4F3}
+	EndGlobalSection
+EndGlobal

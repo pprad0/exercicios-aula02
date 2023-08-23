@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\bin\Debug\net7.0\Exercícios entrada e saida de operadores.exe
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\bin\Debug\net7.0\Exercícios entrada e saida de operadores.deps.json
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\bin\Debug\net7.0\Exercícios entrada e saida de operadores.runtimeconfig.json
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\bin\Debug\net7.0\Exercícios entrada e saida de operadores.dll
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\bin\Debug\net7.0\Exercícios entrada e saida de operadores.pdb
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\obj\Debug\net7.0\Exercícios entrada e saida de operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\obj\Debug\net7.0\Exercícios entrada e saida de operadores.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\obj\Debug\net7.0\Exercícios entrada e saida de operadores.AssemblyInfo.cs
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\obj\Debug\net7.0\Exercícios entrada e saida de operadores.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\obj\Debug\net7.0\Exercícios entrada e saida de operadores.dll
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\obj\Debug\net7.0\refint\Exercícios entrada e saida de operadores.dll
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\obj\Debug\net7.0\Exercícios entrada e saida de operadores.pdb
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\obj\Debug\net7.0\Exercícios entrada e saida de operadores.genruntimeconfig.cache
+C:\Users\user\Desktop\csharp\Aula 02\Exercícios entrada e saida de operadores\obj\Debug\net7.0\ref\Exercícios entrada e saida de operadores.dll
